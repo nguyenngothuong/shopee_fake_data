@@ -19,11 +19,7 @@ Tỷ lệ đơn hàng hoàn/hủy chiếm 24.83% tổng số đơn hàng, với 
 - Sản phẩm không phù hợp với làn da (19.37%)
 - Màu sắc/mùi hương khác với mong đợi (19.20%)
 
-![Biểu đồ lý do hoàn hủy hàng](bieu_do_phan_tich/ly_do_hoan_huy.png)
-
 Phân tích theo danh mục cho thấy tỷ lệ hoàn hủy khá đồng đều (~24-25%), với "Chăm sóc răng miệng" có tỷ lệ cao nhất (25.53%).
-
-![Biểu đồ tỷ lệ hoàn hủy theo danh mục](bieu_do_phan_tich/hoan_huy_theo_danh_muc.png)
 
 ## TOP 10 THƯƠNG HIỆU CÓ TỶ LỆ HOÀN HỦY CAO NHẤT
 
@@ -43,8 +39,6 @@ Phân tích theo danh mục cho thấy tỷ lệ hoàn hủy khá đồng đều
 ## PHÂN TÍCH THEO KHOẢNG GIÁ
 
 Sản phẩm có giá >300k có tỷ lệ hoàn hủy cao nhất (26.26%), trong khi các khoảng giá khác dao động từ 24.61% đến 25.03%.
-
-![Biểu đồ tỷ lệ hoàn hủy theo khoảng giá](bieu_do_phan_tich/hoan_huy_theo_gia.png)
 
 ## XU HƯỚNG THEO THỜI GIAN
 
